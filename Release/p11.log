@@ -1,0 +1,12 @@
+﻿  Camera.cpp
+  figuras.cpp
+c:\users\simon\desktop\cg04\p11\figuras.cpp(20): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\simon\desktop\cg04\p11\figuras.cpp(99): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\simon\desktop\cg04\p11\figuras.cpp(152): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\simon\desktop\cg04\p11\figuras.cpp(361): warning C4101: 'theta': unreferenced local variable
+c:\users\simon\desktop\cg04\p11\figuras.cpp(361): warning C4101: 'phi': unreferenced local variable
+c:\users\simon\desktop\cg04\p11\figuras.cpp(588): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  pFinal.cpp
+  texture.cpp
+  Generating Code...
+  p11.vcxproj -> C:\Users\simon\Desktop\CG04\p11\Release\pFinal.exe
