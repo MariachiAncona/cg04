@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (p10.vcxproj, p11.vcxproj, ProyectoFinal.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+  figuras.cpp
+c:\users\simon\desktop\cg04\p11\figuras.cpp(20): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\simon\desktop\cg04\p11\figuras.cpp(99): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\simon\desktop\cg04\p11\figuras.cpp(152): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\simon\desktop\cg04\p11\figuras.cpp(361): warning C4101: 'theta': unreferenced local variable
+c:\users\simon\desktop\cg04\p11\figuras.cpp(361): warning C4101: 'phi': unreferenced local variable
+c:\users\simon\desktop\cg04\p11\figuras.cpp(588): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  pFinal.cpp
+  texture.cpp
+  Generating Code...
+  p11.vcxproj -> C:\Users\simon\Desktop\CG04\p11\Debug\pFinal.exe
